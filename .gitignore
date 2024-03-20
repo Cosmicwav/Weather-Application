@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Exclude API.js containing sensitive API key
+src/helpers/API.js
